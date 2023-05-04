@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hvats16" target="blank"><img src="https://img.shields.io/twitter/follow/hvats16?logo=twitter&style=for-the-badge" alt="hvats16" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **MERN**
 
